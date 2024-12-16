@@ -9,16 +9,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phomdev/mesto.git"
-  },
-  "author": "Vladimir Galkin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/phomdev/mesto/issues"
-  },
-  "homepage": "https://github.com/phomdev/mesto#readme",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
